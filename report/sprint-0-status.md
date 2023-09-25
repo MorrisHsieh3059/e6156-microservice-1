@@ -6,10 +6,6 @@ Sprint in a concept from [Agile SW development](https://en.wikipedia.org/wiki/Ag
 Project teams will follow a simplified version of agile development to build their projects. A core concept in
 agile development is _a sprint._
 
-|   <img src="./sprints.png">    |
-|:------------------------------:|
-| __Agile Development: Sprints__ | 
-
 Sprint-0 is an individual sprint that focus on setting up their environments. All students must complete the sprint
 individually. This document is the template for submitting a status report on Sprint-0. 
 Completing the report is simply taking screenshots and including them
@@ -21,7 +17,7 @@ We will post submission instructions on Ed for submitting the report.
 - Place a screen capture of your directory below. Display the structure in a terminal window, PyCharm, file explorer
 or any other mechanism.
 
-| <img src="./project-structure.jpg"> |
+| <img src="./report/0.png"> |
 |:-----------------------------------:|
 |         __Cloned Project__          | 
 
