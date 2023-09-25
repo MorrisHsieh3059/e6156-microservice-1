@@ -17,7 +17,7 @@ We will post submission instructions on Ed for submitting the report.
 - Place a screen capture of your directory below. Display the structure in a terminal window, PyCharm, file explorer
 or any other mechanism.
 
-| <img src="./report/0.png"> |
+| <img src="./0.png"> |
 |:-----------------------------------:|
 |         __Cloned Project__          | 
 
